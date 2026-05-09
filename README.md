@@ -3,7 +3,7 @@ A simple and interactive Notes App built using HTML, CSS, Bootstrap, and JavaScr
 It allows users to create, edit, delete, search, and organize notes with categories and a trash system.
 
 
-Features:
+## Features
 - Create new notes
 - Edit existing notes
 - Delete notes (move to trash)
@@ -16,14 +16,14 @@ Features:
 - Local storage support (data saved in browser)
 
 
-Technologies Used:
+## Technologies Used
 - HTML5
 - CSS3
 - Bootstrap 5
 - JavaScript (ES6)
 - LocalStorage API
 
-Screenshots
+## Screenshots
 
 <img width="1920" height="1080" alt="Screenshot (505)" src="https://github.com/user-attachments/assets/c85768bc-8943-4a22-a9f5-bac1751f247e" />
 
@@ -59,7 +59,7 @@ Screenshots
 
 
 
-Project Structure:
+## Project Structure
 
 noteapp/
 - node_ui.html
@@ -69,7 +69,7 @@ noteapp/
 
 
 
-How It Works:
+## How It Works
 
 - Notes are stored in localStorage
 Each note has:
@@ -80,12 +80,21 @@ Each note has:
 - Pin status
 - Trash status
 
-UI updates dynamically using JavaScript DOM manipulation
+The UI updates dynamically using JavaScript DOM manipulation.
 
 
 
+## Installation:
 
-Live Demo:
+1. git clone https://github.com/SwanHtetPoPo279/Notes-app.git
+2. Open node_ui.html in your browser
 
 
+
+## Live Demo
+
+Not deployed yet (runs locally only)
+
+
+## Author - Swan Htet Po Po
 
